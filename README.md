@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&pause=1000&center=true&vCenter=true&width=435&height=24&lines=Hello+World!;This+is+SHAJ...;Welcome+to+my+Profile!)](https://git.io/typing-svg)
 ---
-Software Engineer at [TallyKhata](https://www.tallykhata.com/) | Android-Flutter | Fintech-MFS | Entrepreneurial-Minded | YouTuber
+Software Engineer at [Red.Digital - Robi Axiata Limited](https://www.robi.com.bd/en) | Android-Flutter | Fintech-MFS | Entrepreneurial-Minded | YouTuber
   
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCsONqe4261c6toTEh_wMgNA?style=social)](https://www.youtube.com/c/SHAJT3CH?sub_confirmation=1)
 [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCsONqe4261c6toTEh_wMgNA?style=social)](https://www.youtube.com/c/SHAJT3CH?sub_confirmation=1)
